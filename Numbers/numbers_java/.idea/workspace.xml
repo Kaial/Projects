@@ -4,8 +4,11 @@
     <list default="true" id="51a33421-49a0-459b-b28b-1a43b7c5ecb6" name="Default" comment="" />
     <ignored path="numbers_java.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Main.java" changelist="51a33421-49a0-459b-b28b-1a43b7c5ecb6" time="1377702415290" ignored="false" />
+    <file path="/Main.java" changelist="51a33421-49a0-459b-b28b-1a43b7c5ecb6" time="1377711833679" ignored="false" />
     <file path="/fragment.java" changelist="51a33421-49a0-459b-b28b-1a43b7c5ecb6" time="1377702507148" ignored="false" />
+    <file path="/PiToTheX.java" changelist="51a33421-49a0-459b-b28b-1a43b7c5ecb6" time="1377712570930" ignored="false" />
+    <file path="/ProjectNumbers.java" changelist="51a33421-49a0-459b-b28b-1a43b7c5ecb6" time="1377709116807" ignored="false" />
+    <file path="/ProjectNumbersPi.java" changelist="51a33421-49a0-459b-b28b-1a43b7c5ecb6" time="1377711528799" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,10 +69,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/kyleceschi/projects/numbers/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="34" selection-start="164" selection-end="164" vertical-scroll-proportion="0.2802198">
+            <state line="18" column="86" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProjectNumbersPi.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/kyleceschi/projects/numbers/ProjectNumbersPi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="103" selection-start="974" selection-end="974" vertical-scroll-proportion="0.5952381">
               <folding />
             </state>
           </provider>
@@ -85,7 +97,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/src/com/kyleceschi/projects/numbers/PiToTheX.java" />
+        <option value="$PROJECT_DIR$/src/com/kyleceschi/projects/numbers/ProjectNumbers.java" />
         <option value="$PROJECT_DIR$/src/com/kyleceschi/projects/numbers/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/kyleceschi/projects/numbers/ProjectNumbersPi.java" />
       </list>
     </option>
   </component>
@@ -138,6 +153,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="numbers_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="numbers_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="numbers_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="numbers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -392,7 +425,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/kyleceschi/projects/numbers/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="34" selection-start="164" selection-end="164" vertical-scroll-proportion="0.2802198">
+        <state line="18" column="86" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kyleceschi/projects/numbers/ProjectNumbersPi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="103" selection-start="974" selection-end="974" vertical-scroll-proportion="0.5952381">
           <folding />
         </state>
       </provider>
