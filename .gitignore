@@ -37,3 +37,6 @@ nosetests.xml
 # Komodo
 .komodotools/
 *.komodoproject
+
+# intellij build output
+.Numbers/numbers_java/out/
