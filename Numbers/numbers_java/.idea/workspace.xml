@@ -70,19 +70,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/kyleceschi/projects/numbers/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="66" selection-start="684" selection-end="684" vertical-scroll-proportion="0.84273505">
+            <state line="22" column="102" selection-start="550" selection-end="550" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProjectNumbersFibonacci.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ProjectNumbersFibonacci.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/kyleceschi/projects/numbers/ProjectNumbersFibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="83" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0">
+            <state line="19" column="83" selection-start="443" selection-end="443" vertical-scroll-proportion="0.5521368">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -476,12 +476,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kyleceschi/projects/numbers/ProjectNumbersFibonacci.java">
+    <entry file="file://$PROJECT_DIR$/src/com/kyleceschi/projects/numbers/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="83" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="22" column="102" selection-start="550" selection-end="550" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -492,10 +490,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kyleceschi/projects/numbers/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/kyleceschi/projects/numbers/ProjectNumbersFibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="66" selection-start="684" selection-end="684" vertical-scroll-proportion="0.84273505">
-          <folding />
+        <state line="19" column="83" selection-start="443" selection-end="443" vertical-scroll-proportion="0.5521368">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
