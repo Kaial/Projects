@@ -10,9 +10,20 @@ package com.kyleceschi.projects.numbers;
 public class Main {
 
     public static void main(String[] args){
-        long start = System.nanoTime();
-        System.out.println(ProjectNumbersPi.findDigitsOfPi("100000"));
-        double stop = (System.nanoTime() - start) / 1000000000.0;
-        System.out.println(String.format("Calculation took %f seconds", stop));
+        int arg = -1;
+        try{
+            arg = Integer.parseInt(args[0]);
+        }catch (NumberFormatException ex){
+            System.out.println("No arguments");
+        }
+        switch(arg){
+            case 0:
+                System.out.println(ProjectNumbersPi.findDigitsOfPi("100"));
+                break;
+            case 1:
+                System.out.println(ProjectNumbersFibonacci.findFib());
+            default:
+                break;
+        }
     }
 }
