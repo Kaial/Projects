@@ -7,6 +7,5 @@ def fib(n): #compute fib to n
         a, b = b, a+b
     return result
 
-n = input('Enter number of fib sequence to computer: ')
-fibResult = fib(int(n))
+fibResult = fib(int(input('Enter number of fib sequence to compute: ')))
 print(fibResult)
