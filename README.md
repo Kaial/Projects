@@ -1,4 +1,4 @@
-﻿Mega Project List
+﻿Mega Project List of my favorite implementations
 ========
 
 Numbers
