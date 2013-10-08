@@ -15,4 +15,4 @@ while True:
         while not is_prime(prime): #keep incrementing to the next prime
             prime += 1
         print(prime)
-        prime += 1
+        prime += 1 # have to increment again otherwise we will just print the same one over and over
