@@ -3,7 +3,7 @@ Numbers
 
 **Find PI to the Nth Digit**: [Python](https://github.com/Kaial/Projects/blob/master/Numbers/Pi.py), [Java](https://github.com/Kaial/Projects/blob/master/Numbers/numbers_java/src/com/kyleceschi/projects/numbers/ProjectNumbersPi.java) - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
-**Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+**Fibonacci Sequence**: [Python](https://github.com/Kaial/Projects/blob/master/Numbers/Fib.py), [Java](https://github.com/Kaial/Projects/blob/master/Numbers/numbers_java/src/com/kyleceschi/projects/numbers/ProjectNumbersFibonacci.java) - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
 **Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
