@@ -5,13 +5,13 @@ Numbers
 
 **Fibonacci Sequence**: [Python](https://github.com/Kaial/Projects/blob/master/Numbers/Fib.py), [Java](https://github.com/Kaial/Projects/blob/master/Numbers/numbers_java/src/com/kyleceschi/projects/numbers/ProjectNumbersFibonacci.java) - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
-**Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.
+**Prime Factorization**: [Python](https://github.com/Kaial/Projects/blob/master/Numbers/PrimeFactor.py) - Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
-**Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one.
+**Next Prime Number**: [Python](https://github.com/Kaial/Projects/blob/master/Numbers/NextPrime.py) - Have the program find prime numbers until the user chooses to stop asking for the next one.
 
-**Find Cost of Tile to Cover W x H Floor** - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
+**Find Cost of Tile to Cover W x H Floor**: [Python](https://github.com/Kaial/Projects/blob/master/Numbers/TileCost.py) - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
 
-**Mortgage Calculator** - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
+**Mortgage Calculator**: [Python](https://github.com/Kaial/Projects/blob/master/Numbers/Mortgage.py) - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
 
 **Change Return Program** - The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
 
